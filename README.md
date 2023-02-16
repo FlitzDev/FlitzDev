@@ -41,7 +41,3 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FlitzDev&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlitzDev&hide=html&layout=compact&theme=highcontrast" />
  </div>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <img alt="github-snake" src="github-contribution-grid-snake.svg">
-</picture>
