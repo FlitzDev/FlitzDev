@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img align='left' height='220' style="margin-left:20px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Studing'>
+<img align='left' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Studing'>
 
 <br>
 <h2>Studing&Skills</h2>
