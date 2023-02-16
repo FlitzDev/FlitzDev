@@ -38,11 +38,12 @@
 </p>
 
 <p align = center>Github Status</p>
-<div align="center">
+<p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FlitzDev&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlitzDev&hide=html&layout=compact&theme=highcontrast" />
- </div>
+ </p>
+ 
  <p align = center>🐍 Snake Game Github Contribution 🐍</p>
- <p  align="center">
+ <p align="center">
   <img src="github-user-contribution.svg">
 </p>
