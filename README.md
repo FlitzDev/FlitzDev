@@ -41,3 +41,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FlitzDev&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlitzDev&hide=html&layout=compact&theme=highcontrast" />
  </div>
+ <p align="center">
+  <p>🐍 Snake Game Github Contribution 🐍</p>
+  <img src="github-user-contribution.svg">
+</p>
