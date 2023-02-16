@@ -7,10 +7,13 @@
   <a href="mailto:harry0937519@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/flitz_tw/">
+    <img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram">
+  </a>
+    <a href="https://github.com/FlitzDev">
+    <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
-
-
-[3]: https://www.instagram.com/flitzdev
 
 <img align='left' height='200' style="margin-left:20px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Studing'>
 
@@ -30,7 +33,7 @@
   <img src="https://img.shields.io/badge/typescript-gray?logo=typescript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-2C2F31?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
